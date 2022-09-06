@@ -1,8 +1,10 @@
 # 🤘🏻 About Me:
 ## ☀️ Full Stack React Developer & UI Engineer living off-grid in northern New Mexico. ☀️ <br>
-### Currently working on:
-🖥️ desktop CMS and vercel analytics interface. 
-🎼 cryptones, an application which generates unique audio compositions derived from cryptocurrency price data. 
+### Currently working on: <br>
+🖥️ desktop CMS and analytics interface. <br> 
+🎼 cryptones, an application which generates unique audio compositions derived from cryptocurrency price data. <br> 
+:art: iion, a website for interacting with NFT collections hosted on Foundation <br>
+
 ### I'd be receptive to hearing about: 
 UI Engineer, React/Frontend Developer, Full Stack TS/JS engineer roles. 
 Novel ideas for applications or platforms (emphasis on novel).
