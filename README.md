@@ -6,8 +6,7 @@
 :art: iion, a website for interacting with NFT collections hosted on Foundation <br>
 
 ### I'd be receptive to hearing about: 
-UI Engineer, React/Frontend Developer, Full Stack TS/JS engineer roles. 
-Novel ideas for applications or platforms (emphasis on novel).
+UI Engineer, React/Frontend Developer, Full Stack TS roles. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmwalsh91) 
