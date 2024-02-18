@@ -1,5 +1,5 @@
 # 🤘🏻 About Me:
-## ☀️ Full Stack React Developer & UI Engineer living off-grid in northern New Mexico. ☀️ <br>
+## ☀️ Full Stack React Developer & UI Engineer. ☀️ <br>
 ### Currently working on: <br>
 🖥️ desktop CMS and analytics interface. <br> 
 🎼 cryptones, an application which generates unique audio compositions derived from cryptocurrency price data. <br> 
