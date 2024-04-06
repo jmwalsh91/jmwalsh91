@@ -1,12 +1,14 @@
 # 🤘🏻 About Me:
 ## ☀️ Full Stack React Developer & UI Engineer. ☀️ <br>
 ### Currently working on: <br>
-🖥️ desktop CMS and analytics interface. <br> 
+📖 online collaborative education platform. <br>
+🖥️ desktop CMS and analytics interface. <br>
 🎼 cryptones, an application which generates unique audio compositions derived from cryptocurrency price data. <br> 
 :art: iion, a website for interacting with NFT collections hosted on Foundation <br>
 
 ### I'd be receptive to hearing about: 
-UI Engineer, React/Frontend Developer, Full Stack TS roles. 
+UI Engineer, React/Frontend Developer, Full Stack TS roles.
+Backend: Go, Typescript/Node. Or: C#, Python
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmwalsh91) 
