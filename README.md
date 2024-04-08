@@ -1,5 +1,5 @@
 # 🤘🏻 About Me:
-## ☀️ Full Stack React Developer & UI Engineer. ☀️ <br>
+## ☀️ Full Stack Engineer, UI Developer. ☀️ <br>
 ### Currently working on: <br>
 📖 online collaborative education platform. <br>
 🖥️ desktop CMS and analytics interface. <br>
